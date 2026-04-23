@@ -1,0 +1,36 @@
+# .github/workflows/update-index.yml
+name: Update content index
+on:
+  push:
+    paths:
+      - "content/**"
+      - "scripts/generate-index.js"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+      - name: Install deps (none required)
+        run: echo 'No deps'
+      - name: Run generator
+        run: node scripts/generate-index.js
+      - name: Commit index.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/index.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update content/index.json [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

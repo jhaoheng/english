@@ -12,7 +12,7 @@
 
   async function loadIndex(){
     try{
-      const res = await fetch('/content/index.json');
+      const res = await fetch('content/index.json');
       if(!res.ok) throw new Error('index.json not found');
       const list = await res.json();
       renderOutline(list);
@@ -48,7 +48,7 @@
 
   async function loadAndRenderFile(fname){
     try{
-      const res = await fetch('/content/' + encodeURIComponent(fname));
+      const res = await fetch('content/' + encodeURIComponent(fname));
       if(!res.ok) throw new Error('not found');
       const text = await res.text();
       const html = md.render(text);

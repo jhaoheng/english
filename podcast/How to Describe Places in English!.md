@@ -1,5 +1,7 @@
 # 其他
 - to let off steam: 釋放壓力
+  - After a long week at work, I like to go for a run to let off steam.
+  - We went to karaoke last night just to let off some steam.
 - venting: 吐苦水、發洩情緒、抒發不滿
 - I need your advice on ....
 - wind turbine = 風力渦輪機

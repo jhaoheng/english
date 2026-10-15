@@ -1,22 +1,33 @@
 # 其他
-- to let off steam: 釋放壓力
+- to let off steam: 釋放壓力 (偏向「做某個動作、運動、打電動」來釋放壓力)
   - After a long week at work, I like to go for a run to let off steam.
-  - We went to karaoke last night just to let off some steam.
-- venting: 吐苦水、發洩情緒、抒發不滿
+  - We went to KTV last night just to let off some steam.
+- venting: 吐苦水、發洩情緒、抒發不滿 (偏向「嘴巴講、文字寫」的傾訴抱怨)
+  - I spent the whole evening venting to my best friend about my boss.
+  - Do you have a minute? I really need to do some venting.
+  - Thanks for letting me vent. I feel a lot lighter now.
+  - Don't take what he said to heart. He was just venting.
+  - She is not looking for solution; She is just venting her frustration.
+  - People often use social media as a place for venting.
 - I need your advice on ....
 - wind turbine = 風力渦輪機
 - There are hardly any houses.
 - just up the road | just down the road
+  - Don't worry, the convenience store is just up the road.
+  - I found a cozy cafe just up the road from our hotel.
+  - There is a gas station just down the road on your left.
 - just up the street | just down the street
 - secluded: a place far from other people, tucked away, not easy to see, private.
-- tucked away: 
+  - 著重在「遠離人群、環境幽靜、具隱私性」（偏抽象氛圍，如：secluded beach）。
+  - We stayed at the secluded cabin in the mountains to escape the noisy city.
+  - After walking through the forest, we found a secluded beach with zero tourists.
+- tucked away
+  - 著重在「位置被收藏/塞在某個角落，不顯眼」（偏空間位置，如：a bookstore tucked away in a basement）。
   - There is a cute little cafe tucked away in a quiet alley.
   - The restaurant is tucked away behind the main street, so it's easy to miss.
   - They live in a beautiful cottage tucked away in the woods.
   - Tucked away in [小巷 / 山林 / 角落]
   - Tucked away behind [建築 / 大街]
-- Secluded：著重在「遠離人群、環境幽靜、具隱私性」（偏抽象氛圍，如：secluded beach）。
-- Tucked away：著重在「位置被收藏/塞在某個角落，不顯眼」（偏空間位置，如：a bookstore tucked away in a basement）。
 - a dirt road
   - a bumpy dirt road: 一條顛簸的泥土路
   - The GPS sent us onto a dirt road in the middle of nowhere.

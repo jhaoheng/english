@@ -34,12 +34,23 @@
 - Gravel road：碎石路（比純泥土路稍微好走一點，鋪滿小石子）
 - Paved road：鋪設過的路（即一般的柏油路或水泥路）
 - Off-road：越野 / 非鋪裝路面（形容適合越野車開的路）
-- beaten path: 熱門路線、景點、常規觀光路線
+- the beaten path: 熱門路線、景點、常規觀光路線
+  - We decided to stay on the beaten path since it was our first time in the city.
+  - If you follow the beaten path, you’ll see all the famous tourist landmarks.
 - off the beaten path: 秘境、私房景點、冷門路線
+  - The best small restaurants are usually off the beaten path.
+  - They wanted a quiet holiday, so they choose a destination off the beaten path.
+- We are in the countryside. : 我們在鄉下。（平實陳述事實）
 - We are out here in the countryside. : 我們現在人（挺遠地）在大老遠的鄉下呢。
   - 用 out here 強調偏遠、寬廣、離城裡很遠的現場感
-- We are in the countryside. : 我們在鄉下。（平實陳述事實）
+  - It’s so quiet out here at night. => 到了晚上，我們這偏僻地方真的好安靜。
+  - Look at the stars! You can’t see a sky like this in the city—it’s amazing out here. => 你看那些星星！在城市裡根本看不到這種夜空，這偏僻郊外真的太棒了。
 - worthwhile: 值得
+- Easy on the ...
+  - Can I get an iced Americano, easy on the ice?
+  - I'd like a milk tea, but please go easy on the ice.
+  - Easy on the sugar / salt / hot sauce / mayo.
+  - I’d like an iced latte, easy on the ice, and easy on the sugar, please.
 
 # text
 

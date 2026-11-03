@@ -15,3 +15,14 @@ A crossing is a place where people walk across the road.
 
 What are the most important Japanese dishes we should know?
 Sashimi is just the raw fish by itself.
+
+That is a very common misunderstanding.
+
+You can go to a conveyor belt sushi restaurant.
+where the plates travel around on a little belt
+
+I lost count.
+
+Ramen is a noodle soup dish.
+
+bamboo shoots

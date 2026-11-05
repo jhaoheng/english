@@ -1,7 +1,13 @@
-if you don't mind at some point during this video give me a thumbs up.
+Let's head over there.
+
+If you don't mind at some point during this video give me a thumbs up.
+
 Let's head into the mall.
+
 So I should say though that often I'll just refer to the shopping mall as a mall.
+
 we would call a "kiosk".
+
 This particular kiosk looks like it sells cell phones.
 
 What section would they be in?

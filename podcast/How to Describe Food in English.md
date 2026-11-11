@@ -23,3 +23,9 @@ for the sake of time, we are gonna try and do that as little as possible but it 
 These are way more flavorful than the cheese curls I eat in the US.
 
 They come individually wrapped.
+
+We can describe this crinkly wrapper.
+
+Not as crunchy as I was expecting.
+
+I thought the wafers inside and the filling, that is what is inside, I think is marshmallow, it is tasty.

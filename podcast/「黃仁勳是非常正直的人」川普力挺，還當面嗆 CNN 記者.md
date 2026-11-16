@@ -36,3 +36,17 @@ I would give Pete Rose a pardon. `All right, let's make that happen.`
 ## There is something wrong with him.
 
 - "Something wrong with" means: something isn't right, or isn't working the way it should.
+
+
+
+# 其他
+
+- I want to elevate you. = 我要提拔你
+- 用 only 強調『惋惜』的語氣
+  - You could be our press secretary if you would only take the job.
+  - If you would only listen to me, you wouldn't make this mistake.
+  - If it would only stop raining, we could go out for a walk.
+- There would never have been. = 那是前所未有的
+- He will talk for a little while and then he is going toe beat the hell out of you.
+- I don't advice the President on anything ever, but I think it's fair. = 我從來不給總統任何建議，不過我覺得很合理
+- The guy is a stone-cold loser. = 這傢伙是徹頭徹尾的魯蛇
